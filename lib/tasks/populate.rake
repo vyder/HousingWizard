@@ -24,10 +24,24 @@ namespace :db do
       d.save!
     end
     
-    # Step 3: Create renters' hash
+    # Step 3: Populate Criteria
+    criteria = ["Economic Considerations",
+                "Proximity to Campus",
+                "Size",
+                "Quality of Housing",
+                "Social Life",
+                "Safety"]
+                
+    criteria.each do |criterium_name|
+      c = Criterium.new(name: criterium_name)
+      c.save!
+    end
     
     
-    # Step 4: Create the renters
+    # Step 4: Create renters' hash
+    
+    
+    # Step 5: Create the renters
     
     
     
