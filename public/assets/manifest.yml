@@ -1,0 +1,17 @@
+---
+glyphicons-halflings-white.png: glyphicons-halflings-white.png
+glyphicons-halflings.png: glyphicons-halflings.png
+application.js: application.js
+bootstrap.js: bootstrap.js
+jquery-ui.js: jquery-ui.js
+jquery.js: jquery.js
+jquery_ujs.js: jquery_ujs.js
+wizard.js: wizard.js
+application.css: application.css
+bootstrap-responsive.css: bootstrap-responsive.css
+bootstrap.css: bootstrap.css
+bootstrap_and_overrides.css: bootstrap_and_overrides.css
+wizard.css: wizard.css
+coffee-script.js: coffee-script.js
+jquery-ui.min.js: jquery-ui.min.js
+jquery.min.js: jquery.min.js
