@@ -1,10 +1,14 @@
 ---
 rails.png: rails.png
 application.js: application.js
+bootstrap.js: bootstrap.js
 jquery-ui.js: jquery-ui.js
 jquery.js: jquery.js
 jquery_ujs.js: jquery_ujs.js
+wizard.js: wizard.js
 application.css: application.css
+bootstrap_and_overrides.css: bootstrap_and_overrides.css
+wizard.css: wizard.css
 fontawesome-webfont.eot: fontawesome-webfont.eot
 fontawesome-webfont.svg: fontawesome-webfont.svg
 fontawesome-webfont.svgz: fontawesome-webfont.svgz
@@ -12,3 +16,19 @@ fontawesome-webfont.ttf: fontawesome-webfont.ttf
 fontawesome-webfont.woff: fontawesome-webfont.woff
 twitter/bootstrap/glyphicons-halflings-white.png: twitter/bootstrap/glyphicons-halflings-white.png
 twitter/bootstrap/glyphicons-halflings.png: twitter/bootstrap/glyphicons-halflings.png
+twitter/bootstrap.js: twitter/bootstrap.js
+twitter/bootstrap/bootstrap-alert.js: twitter/bootstrap/bootstrap-alert.js
+twitter/bootstrap/bootstrap-button.js: twitter/bootstrap/bootstrap-button.js
+twitter/bootstrap/bootstrap-carousel.js: twitter/bootstrap/bootstrap-carousel.js
+twitter/bootstrap/bootstrap-collapse.js: twitter/bootstrap/bootstrap-collapse.js
+twitter/bootstrap/bootstrap-dropdown.js: twitter/bootstrap/bootstrap-dropdown.js
+twitter/bootstrap/bootstrap-modal.js: twitter/bootstrap/bootstrap-modal.js
+twitter/bootstrap/bootstrap-popover.js: twitter/bootstrap/bootstrap-popover.js
+twitter/bootstrap/bootstrap-scrollspy.js: twitter/bootstrap/bootstrap-scrollspy.js
+twitter/bootstrap/bootstrap-tab.js: twitter/bootstrap/bootstrap-tab.js
+twitter/bootstrap/bootstrap-tooltip.js: twitter/bootstrap/bootstrap-tooltip.js
+twitter/bootstrap/bootstrap-transition.js: twitter/bootstrap/bootstrap-transition.js
+twitter/bootstrap/bootstrap-typeahead.js: twitter/bootstrap/bootstrap-typeahead.js
+coffee-script.js: coffee-script.js
+jquery-ui.min.js: jquery-ui.min.js
+jquery.min.js: jquery.min.js
