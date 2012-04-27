@@ -1,4 +1,5 @@
 HousingWizard::Application.routes.draw do
+
   get "wizard/calculate"
 
   get "wizard/show"
