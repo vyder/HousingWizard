@@ -4,7 +4,7 @@ gem 'jquery-rails'
 gem 'pg'
 gem 'rails', '3.2.1'
 #gem 'sqlite3'
-gem 'taps', '~> 0.3.23'
+#gem 'taps', '~> 0.3.23'
 gem 'therubyracer', '~> 0.10.1'
 gem 'twitter-bootstrap-rails', '~> 2.0.6'
 
