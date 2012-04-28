@@ -11,7 +11,7 @@
 #
 # It's strongly recommended to check this file into your version control system.
 
-ActiveRecord::Schema.define(:version => 20120427192549) do
+ActiveRecord::Schema.define(:version => 20120427203511) do
 
   create_table "criteria", :force => true do |t|
     t.string   "name"
@@ -24,6 +24,29 @@ ActiveRecord::Schema.define(:version => 20120427192549) do
     t.datetime "created_at", :null => false
     t.datetime "updated_at", :null => false
     t.string   "abbr"
+  end
+
+  create_table "renter_criteria", :force => true do |t|
+    t.integer  "criterium_id"
+    t.integer  "renter_id"
+    t.datetime "created_at",   :null => false
+    t.datetime "updated_at",   :null => false
+  end
+
+  create_table "renter_departments", :force => true do |t|
+    t.integer  "department_id"
+    t.integer  "renter_id"
+    t.datetime "created_at",    :null => false
+    t.datetime "updated_at",    :null => false
+  end
+
+  create_table "renters", :force => true do |t|
+    t.boolean  "roommate"
+    t.boolean  "oncampus"
+    t.integer  "rent"
+    t.string   "notes"
+    t.datetime "created_at", :null => false
+    t.datetime "updated_at", :null => false
   end
 
 end

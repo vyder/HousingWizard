@@ -1,0 +1,2 @@
+module RenterCriteriaHelper
+end

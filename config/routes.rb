@@ -1,5 +1,11 @@
 HousingWizard::Application.routes.draw do
 
+  resources :renter_criteria
+
+  resources :renter_departments
+
+  resources :renters
+
   resources :criteria
 
   get "wizard/calculate"
