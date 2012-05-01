@@ -1,0 +1,437 @@
+Total number of records = 130
+
+	Total living on campus = 66
+	Total living off campus = 64
+
+Total living with a roommate = 90
+Total living alone = 40
+
+--- Department: CIT - Carnegie Institute of Technology
+Number of records from CIT = 18
+-
+Total living on campus = 10
+Total living off campus = 8
+
+Total living with a roommate = 12
+Total living alone = 6
+-
+Economic considerations: 8
+	Lives on campus: 2
+		Has a roommate: 2
+		Lives alone: 0
+	Lives off campus: 6
+		Has a roommate: 5
+		Lives alone: 1
+-
+Proximity to Campus: 10
+	Lives on campus: 8
+		Has a roommate: 4
+		Lives alone: 4
+	Lives off campus: 2
+		Has a roommate: 2
+		Lives alone: 0
+-
+Size: 6
+	Lives on campus: 2
+		Has a roommate: 1
+		Lives alone: 1
+	Lives off campus: 4
+		Has a roommate: 3
+		Lives alone: 1
+-
+Quality of Housing: 4
+	Lives on campus: 2
+		Has a roommate: 2
+		Lives alone: 0
+	Lives off campus: 2
+		Has a roommate: 1
+		Lives alone: 1
+-
+Social Life: 5
+	Lives on campus: 2
+		Has a roommate: 1
+		Lives alone: 1
+	Lives off campus: 3
+		Has a roommate: 2
+		Lives alone: 1
+-
+Safety: 2
+	Lives on campus: 2
+		Has a roommate: 1
+		Lives alone: 1
+	Lives off campus: 0
+		Has a roommate: 0
+		Lives alone: 0
+---
+
+
+
+
+--- Department: CFA - College of Fine Arts
+Number of records from CFA = 4
+-
+Total living on campus = 0
+Total living off campus = 4
+
+Total living with a roommate = 1
+Total living alone = 3
+-
+Economic considerations: 2
+	Lives on campus: 0
+		Has a roommate: 0
+		Lives alone: 0
+	Lives off campus: 2
+		Has a roommate: 0
+		Lives alone: 2
+-
+Proximity to Campus: 2
+	Lives on campus: 0
+		Has a roommate: 0
+		Lives alone: 0
+	Lives off campus: 2
+		Has a roommate: 0
+		Lives alone: 2
+-
+Size: 1
+	Lives on campus: 0
+		Has a roommate: 0
+		Lives alone: 0
+	Lives off campus: 1
+		Has a roommate: 1
+		Lives alone: 0
+-
+Quality of Housing: 3
+	Lives on campus: 0
+		Has a roommate: 0
+		Lives alone: 0
+	Lives off campus: 3
+		Has a roommate: 0
+		Lives alone: 3
+-
+Social Life: 0
+	Lives on campus: 0
+		Has a roommate: 0
+		Lives alone: 0
+	Lives off campus: 0
+		Has a roommate: 0
+		Lives alone: 0
+-
+Safety: 2
+	Lives on campus: 0
+		Has a roommate: 0
+		Lives alone: 0
+	Lives off campus: 2
+		Has a roommate: 1
+		Lives alone: 1
+---
+
+
+
+
+--- Department: H&SS - Humanities & Social Sciences
+Number of records from H&SS = 94
+-
+Total living on campus = 42
+Total living off campus = 52
+
+Total living with a roommate = 64
+Total living alone = 30
+-
+Economic considerations: 39
+	Lives on campus: 7
+		Has a roommate: 5
+		Lives alone: 2
+	Lives off campus: 32
+		Has a roommate: 22
+		Lives alone: 10
+-
+Proximity to Campus: 58
+	Lives on campus: 31
+		Has a roommate: 22
+		Lives alone: 9
+	Lives off campus: 27
+		Has a roommate: 19
+		Lives alone: 8
+-
+Size: 22
+	Lives on campus: 9
+		Has a roommate: 8
+		Lives alone: 1
+	Lives off campus: 13
+		Has a roommate: 8
+		Lives alone: 5
+-
+Quality of Housing: 28
+	Lives on campus: 14
+		Has a roommate: 12
+		Lives alone: 2
+	Lives off campus: 14
+		Has a roommate: 6
+		Lives alone: 8
+-
+Social Life: 25
+	Lives on campus: 14
+		Has a roommate: 11
+		Lives alone: 3
+	Lives off campus: 11
+		Has a roommate: 7
+		Lives alone: 4
+-
+Safety: 6
+	Lives on campus: 0
+		Has a roommate: 0
+		Lives alone: 0
+	Lives off campus: 6
+		Has a roommate: 3
+		Lives alone: 3
+---
+
+
+
+
+--- Department: MCS - Mellon College of Sciences
+Number of records from MCS = 10
+-
+Total living on campus = 6
+Total living off campus = 4
+
+Total living with a roommate = 10
+Total living alone = 0
+-
+Economic considerations: 3
+	Lives on campus: 1
+		Has a roommate: 1
+		Lives alone: 0
+	Lives off campus: 2
+		Has a roommate: 2
+		Lives alone: 0
+-
+Proximity to Campus: 7
+	Lives on campus: 5
+		Has a roommate: 5
+		Lives alone: 0
+	Lives off campus: 2
+		Has a roommate: 2
+		Lives alone: 0
+-
+Size: 2
+	Lives on campus: 1
+		Has a roommate: 1
+		Lives alone: 0
+	Lives off campus: 1
+		Has a roommate: 1
+		Lives alone: 0
+-
+Quality of Housing: 5
+	Lives on campus: 3
+		Has a roommate: 3
+		Lives alone: 0
+	Lives off campus: 2
+		Has a roommate: 2
+		Lives alone: 0
+-
+Social Life: 4
+	Lives on campus: 3
+		Has a roommate: 3
+		Lives alone: 0
+	Lives off campus: 1
+		Has a roommate: 1
+		Lives alone: 0
+-
+Safety: 0
+	Lives on campus: 0
+		Has a roommate: 0
+		Lives alone: 0
+	Lives off campus: 0
+		Has a roommate: 0
+		Lives alone: 0
+---
+
+
+
+
+--- Department: SCS - School of Computer Science
+Number of records from SCS = 7
+-
+Total living on campus = 4
+Total living off campus = 3
+
+Total living with a roommate = 5
+Total living alone = 2
+-
+Economic considerations: 1
+	Lives on campus: 0
+		Has a roommate: 0
+		Lives alone: 0
+	Lives off campus: 1
+		Has a roommate: 1
+		Lives alone: 0
+-
+Proximity to Campus: 4
+	Lives on campus: 4
+		Has a roommate: 4
+		Lives alone: 0
+	Lives off campus: 0
+		Has a roommate: 0
+		Lives alone: 0
+-
+Size: 4
+	Lives on campus: 2
+		Has a roommate: 2
+		Lives alone: 0
+	Lives off campus: 2
+		Has a roommate: 0
+		Lives alone: 2
+-
+Quality of Housing: 5
+	Lives on campus: 2
+		Has a roommate: 2
+		Lives alone: 0
+	Lives off campus: 3
+		Has a roommate: 1
+		Lives alone: 2
+-
+Social Life: 4
+	Lives on campus: 4
+		Has a roommate: 4
+		Lives alone: 0
+	Lives off campus: 0
+		Has a roommate: 0
+		Lives alone: 0
+-
+Safety: 1
+	Lives on campus: 1
+		Has a roommate: 1
+		Lives alone: 0
+	Lives off campus: 0
+		Has a roommate: 0
+		Lives alone: 0
+---
+
+
+
+
+--- Department: Tepper - Tepper School of Business
+Number of records from Tepper = 15
+-
+Total living on campus = 12
+Total living off campus = 3
+
+Total living with a roommate = 11
+Total living alone = 4
+-
+Economic considerations: 3
+	Lives on campus: 1
+		Has a roommate: 1
+		Lives alone: 0
+	Lives off campus: 2
+		Has a roommate: 2
+		Lives alone: 0
+-
+Proximity to Campus: 13
+	Lives on campus: 10
+		Has a roommate: 7
+		Lives alone: 3
+	Lives off campus: 3
+		Has a roommate: 3
+		Lives alone: 0
+-
+Size: 3
+	Lives on campus: 3
+		Has a roommate: 1
+		Lives alone: 2
+	Lives off campus: 0
+		Has a roommate: 0
+		Lives alone: 0
+-
+Quality of Housing: 2
+	Lives on campus: 2
+		Has a roommate: 2
+		Lives alone: 0
+	Lives off campus: 0
+		Has a roommate: 0
+		Lives alone: 0
+-
+Social Life: 7
+	Lives on campus: 6
+		Has a roommate: 5
+		Lives alone: 1
+	Lives off campus: 1
+		Has a roommate: 1
+		Lives alone: 0
+-
+Safety: 1
+	Lives on campus: 1
+		Has a roommate: 1
+		Lives alone: 0
+	Lives off campus: 0
+		Has a roommate: 0
+		Lives alone: 0
+---
+
+
+
+
+--- Department: BXA - Bachelor of X & Arts
+Number of records from BXA = 4
+-
+Total living on campus = 0
+Total living off campus = 4
+
+Total living with a roommate = 1
+Total living alone = 3
+-
+Economic considerations: 3
+	Lives on campus: 0
+		Has a roommate: 0
+		Lives alone: 0
+	Lives off campus: 3
+		Has a roommate: 1
+		Lives alone: 2
+-
+Proximity to Campus: 3
+	Lives on campus: 0
+		Has a roommate: 0
+		Lives alone: 0
+	Lives off campus: 3
+		Has a roommate: 1
+		Lives alone: 2
+-
+Size: 0
+	Lives on campus: 0
+		Has a roommate: 0
+		Lives alone: 0
+	Lives off campus: 0
+		Has a roommate: 0
+		Lives alone: 0
+-
+Quality of Housing: 2
+	Lives on campus: 0
+		Has a roommate: 0
+		Lives alone: 0
+	Lives off campus: 2
+		Has a roommate: 0
+		Lives alone: 2
+-
+Social Life: 1
+	Lives on campus: 0
+		Has a roommate: 0
+		Lives alone: 0
+	Lives off campus: 1
+		Has a roommate: 0
+		Lives alone: 1
+-
+Safety: 1
+	Lives on campus: 0
+		Has a roommate: 0
+		Lives alone: 0
+	Lives off campus: 1
+		Has a roommate: 0
+		Lives alone: 1
+---
+
+
+
+
+
+
