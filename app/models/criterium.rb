@@ -3,4 +3,6 @@ class Criterium < ActiveRecord::Base
   
   has_many :renter_criteria
   has_many :renters, :through => :renter_criteria
+  belongs_to :query
+  
 end
