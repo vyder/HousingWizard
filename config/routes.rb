@@ -1,5 +1,7 @@
 HousingWizard::Application.routes.draw do
 
+  resources :queries
+
   resources :renter_criteria
 
   resources :renter_departments
