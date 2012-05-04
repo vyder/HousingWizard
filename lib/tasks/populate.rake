@@ -11,15 +11,9 @@ namespace :db do
     departments = {"CIT" => "Carnegie Institute of Technology",
                    "CFA" => "College of Fine Arts",
                    "H&SS" => "Humanities & Social Sciences",
-                   "IS" => "Information Systems",
                    "MCS" => "Mellon College of Sciences",
                    "SCS" => "School of Computer Science",
-                   "Tepper" => "Tepper School of Business",
-                   "BHA" => "Bachelor of Humanities & Arts",
-                   "BSA" => "Bachelor of Science & Arts",
-                   "BCSA" => "Bachelor of CS & Arts",
-                   "BXA" => "Bachelor of X & Arts",
-                   "HCI" => "Human Computer Interaction"}
+                   "Tepper" => "Tepper School of Business"}
                    
     departments.each do |department_abbr, department_name|
       d = Department.new(name: department_name, abbr: department_abbr)

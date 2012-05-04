@@ -1,2 +1,18 @@
-<h1>Wizard#show</h1>
-<p>Find me in app/views/wizard/show.html.erb</p>
+<div class="alert alert-success">
+	<h1>Decision: <%= @best_option %></h1>
+</div>
+
+<h2>This decision was calculated based on survey data obtained from students in the Decision Analysis and Decision Support Systems course taught by Professor Paul Fischbeck.</h2>
+
+<br/>
+
+<h2><b>It was based on the following search criteria</b></h2>
+
+<h2><b>Department</b>: <%= @college %></h2>
+
+<h2><b>Criteria:</b></h2>
+<ul>
+<% @preferences.each do |preference| %>
+	<li><h2><b><%= preference["name"] %></b>: <%= preference["weight"] %>%</h2></li>
+<% end %>
+</ul>
