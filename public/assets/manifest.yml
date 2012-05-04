@@ -11,6 +11,7 @@ application.css: application.css
 bootstrap-responsive.css: bootstrap-responsive.css
 bootstrap.css: bootstrap.css
 bootstrap_and_overrides.css: bootstrap_and_overrides.css
+scaffolds.css: scaffolds.css
 wizard.css: wizard.css
 coffee-script.js: coffee-script.js
 jquery-ui.min.js: jquery-ui.min.js
